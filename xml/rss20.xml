@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- generator="FeedCreator 1.7.2-ppt (info@mypapit.net)" -->
+<rss version="2.0">
+    <channel>
+        <title>AuraCMS : Indonesia Content Management System</title>
+        <description>Free and Easy To Use</description>
+        <link>http://auracms.org</link>
+        <lastBuildDate>Sun, 05 Jul 2009 23:56:36 +0700</lastBuildDate>
+        <generator>FeedCreator 1.7.2-ppt (info@mypapit.net)</generator>
+        <image>
+            <url>http://auracms.org/images/browser-48x48.png</url>
+            <title>Free and Easy To Use</title>
+            <link>http://auracms.org</link>
+            <description>Feed provided by AuraCMS. Click to visit.</description>
+        </image>
+        <item>
+            <title>DEPBUDPAR: MUSIK EFEKTIF DEKATKAN HUBUNGAN ANTAR-NEGARA</title>
+            <link>http://auracms.org/article/107/depbudpar-musik-efektif-dekatkan-hubungan-antar-negara.html</link>
+            <description>Jakarta, 3/7/2009 (Kominfo-Newsroom) &amp;ndash;&amp;nbsp; Dirjen Pemasaran Pariwisata Depbudpar mengatakan, musik simfoni memiliki nilai universal dan sangat efektif dimanfaatkan sebagai cultural diplomacy dalam rangka merekatkan hubungan antar-bangsa dan a...</description>
+            <author>admin</author>
+            <pubDate>Sun, 05 Jul 2009 16:53:21 +0700</pubDate>
+        </item>
+        <item>
+            <title>KPK Periksa Dirut Artha Graha</title>
+            <link>http://auracms.org/article/106/kpk-periksa-dirut-artha-graha.html</link>
+            <description>Jakarta, Kominfo Newsroom -&amp;ndash;
+Komisi Pemberantasan Korupsi
+(KPK), Jumat (3/7), memeriksa
+Direktur Utama PT Artha Graha,
+Andi Kasih, terkait dugaan
+korupsi suap dalam proses
+pemilihan Deputi Senior
+Gubernur Bank Indonesia pada
+tahun
+2004.
+
+Juru
+B...</description>
+            <author>admin</author>
+            <pubDate>Sun, 05 Jul 2009 16:52:21 +0700</pubDate>
+        </item>
+        <item>
+            <title>Guide for Your Cosmetics Choices</title>
+            <link>http://auracms.org/article/105/guide-for-your-cosmetics-choices.html</link>
+            <description>For most of us, our look is
+very important to our life. Our company may appreciate our hard work, but
+perfect look can give us confidence to make the best performance. Cosmetics and
+other beauty treatments can help us to get the perfect look that we ...</description>
+            <author>admin</author>
+            <pubDate>Sun, 05 Jul 2009 08:37:23 +0700</pubDate>
+        </item>
+        <item>
+            <title>Bug Patch: Memunculkan Kembali Navigasi Halaman pada Daftar Komentar di News Manager</title>
+            <link>http://auracms.org/article/104/bug-patch-memunculkan-kembali-navigasi-halaman-pada-daftar-komentar-di-news-manager.html</link>
+            <description>Pada AuraCMS versi 2.2.2, jika diperhatikan di news manager bagian daftar komentar (tab Comment) tidak terdapat navigasi antar halaman di bagian paling bawah walaupun jumlah komentar telah melebihi batas komentar tiap halaman.
+Tidak ada navigasi hala...</description>
+            <author>nasyarobby</author>
+            <pubDate>Fri, 19 Jun 2009 08:12:07 +0700</pubDate>
+        </item>
+        <item>
+            <title>Choosing the TV provider can be Easy</title>
+            <link>http://auracms.org/article/103/choosing-the-tv-provider-can-be-easy.html</link>
+            <description> I was never
+expecting that move to another city will cost me so much. I do not talk about
+the moving process or how much money I had spend to rent my new house, but it
+related with the TV provider I use. I just found out that each of the state and
+m...</description>
+            <author>aguswyd</author>
+            <pubDate>Mon, 08 Jun 2009 02:32:17 +0700</pubDate>
+        </item>
+        <item>
+            <title>Guide for Your Cosmetics Choices</title>
+            <link>http://auracms.org/article/101/guide-for-your-cosmetics-choices.html</link>
+            <description>Health is the luxury thing to have. The 
+statement shows how precious our health is. We might able to buy expensive 
+house and car and replace it with the new one if we are bore with the 
+model, but we can no do the same thing with our health. For so...</description>
+            <author>aguswyd</author>
+            <pubDate>Sat, 06 Jun 2009 14:04:33 +0700</pubDate>
+        </item>
+        <item>
+            <title>Affordable Medication for Chronic Diseases</title>
+            <link>http://auracms.org/article/98/affordable-medication-for-chronic-diseases.html</link>
+            <description>Health is the luxury thing to have. The 
+statement shows how precious our health is. We might able to buy expensive 
+house and car and replace it with the new one if we are bore with the 
+model, but we can no do the same thing with our health. For so...</description>
+            <author>aguswyd</author>
+            <pubDate>Sat, 06 Jun 2009 14:10:55 +0700</pubDate>
+        </item>
+        <item>
+            <title>Cara Setting wamp agar auracms bisa di install</title>
+            <link>http://auracms.org/article/89/cara-setting-wamp-agar-auracms-bisa-di-install.html</link>
+            <description>tips agar wamp server dapat menjalankan auracms.
+pertama buka file php.ini yang terletak di wamp\bin\apache\Apache2.2.11\bin
+
+perhatikan short_open_tag yang bernilai Off
+kemudian ganti nilai nya jadi On setelah itu restart atau close wamp dan start k...</description>
+            <author>ridwan</author>
+            <pubDate>Sun, 08 Mar 2009 16:40:58 +0700</pubDate>
+        </item>
+        <item>
+            <title>Modifikasi AuraCMS</title>
+            <link>http://auracms.org/article/88/modifikasi-auracms.html</link>
+            <description>Para senior, master, pengembang AuraCMS dan penggunanya, sebelumnya saya mohon maaf karena AuraCMS pada web saya banyak dilakukan modifikasi.
+Setelah beberapa modul baru saya posting di web saya, saat ini saya sedang mempersiapkan utk publish dua mod...</description>
+            <author>adram</author>
+            <pubDate>Thu, 26 Feb 2009 05:07:20 +0700</pubDate>
+        </item>
+        <item>
+            <title>Get Theater Tickets Online</title>
+            <link>http://auracms.org/article/87/get-theater-tickets-online.html</link>
+            <description>Are you boring? or work to late? Or you need vocation? Will next month, 3 months ahead or you'll be next year to the U.S. on holiday or vacation while you work there?Of course in your rest time, you will be doing the watching. Then where will you fin...</description>
+            <author>admin</author>
+            <pubDate>Wed, 18 Feb 2009 12:37:04 +0700</pubDate>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,1 @@
+document.getElementById('header_ajax').innerHTML = '<div class=border><a onclick="news.indexs()" style="cursor:pointer">Home</a> | <a onclick="news.addnews(1)" style="cursor:pointer">Add News</a> | <a onclick="news.comments()" style="cursor:pointer">Comment</a> <span style="display:none" id="artikelmasuklink">Artikel Masuk</span></div>';

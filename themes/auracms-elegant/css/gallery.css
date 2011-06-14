@@ -1,0 +1,70 @@
+.gallery_komentar {
+background:#efefef;
+color:#517DBF;
+}
+
+.gallery_desc_main {
+color:#999999;		
+}
+.gallery_desc {
+background:#999999;
+color:#efefef;	
+}
+.gallery_komentar_form {
+background:#ebf0f9;
+color:#517DBF;	
+}
+.gallery_input {
+BORDER-RIGHT: #dcdcdc 1px solid; BORDER-TOP: #dcdcdc 1px solid; FONT-SIZE: 10px; BORDER-LEFT: #dcdcdc 1px solid; COLOR: #777777; BORDER-BOTTOM: #dcdcdc 1px solid; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #ffffff
+}
+.gallery_select {
+BORDER-RIGHT: #dcdcdc 1px solid; BORDER-TOP: #dcdcdc 1px solid; FONT-SIZE: 10px; BORDER-LEFT: #dcdcdc 1px solid; COLOR: #777777; BORDER-BOTTOM: #dcdcdc 1px solid; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #ffffff
+}
+.gallery_text_area {
+BORDER-RIGHT: #dcdcdc 1px solid; BORDER-TOP: #dcdcdc 1px solid; FONT-SIZE: 10px; BORDER-LEFT: #dcdcdc 1px solid; COLOR: #777777; BORDER-BOTTOM: #dcdcdc 1px solid; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #ffffff		
+}
+
+.navtext {
+width:235px;
+font-size:7pt;
+font-family:tahoma;
+border-width:1px;
+border-style:solid;
+border-color:#555555;
+background-color:#fefefe;
+color:black;
+line-height:1.5em;
+}
+.navtext_desc {
+font-family:tahoma;	
+font-size:7pt;
+}
+
+.inputblur{
+		BORDER-RIGHT: #dcdcdc 1px solid; BORDER-TOP: #dcdcdc 1px solid; FONT-SIZE: 10px; BORDER-LEFT: #dcdcdc 1px solid; COLOR: #777777; BORDER-BOTTOM: #dcdcdc 1px solid; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #ffffff
+}
+
+.inputfocus {
+	BORDER-RIGHT: #517DBF 1px solid; BORDER-TOP: #517DBF 1px solid; FONT-SIZE: 10px; BORDER-LEFT: #517DBF 1px solid; COLOR: #517DBF; BORDER-BOTTOM: #517DBF 1px solid; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #ebf0f9
+}
+
+.inputfocus_alert {
+	BORDER-RIGHT: red 1px solid; BORDER-TOP: red 1px solid; FONT-SIZE: 10px; BORDER-LEFT: red 1px solid; COLOR: red; BORDER-BOTTOM: red 1px solid; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #ffffff
+}
+.album { 
+BACKGROUND :#dcdcdc;
+}
+.album1 {
+BACKGROUND :#ffffff;
+}
+
+
+.tableb_compact {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; BACKGROUND: #ffffff; PADDING-BOTTOM: 2px; PADDING-TOP: 2px
+}
+.tableh2_compact {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; BACKGROUND: #cccccc; PADDING-BOTTOM: 2px; COLOR: #444444; PADDING-TOP: 2px
+}
+.maintable {
+	BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; MARGIN-TOP: 1px; MARGIN-BOTTOM: 1px; BORDER-LEFT: 1px solid; BORDER-BOTTOM:1px solid; BACKGROUND-COLOR: #cccccc
+}

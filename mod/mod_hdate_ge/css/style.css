@@ -1,0 +1,43 @@
+#hijriah
+{
+	background: url(../images/bg_hijriah.gif) center no-repeat !important;
+	font-family:Arial, Helvetica, sans-serif;
+	height: 142px !important;
+	width: 125px !important;
+	}
+#bulan
+{
+	padding-top:15px;
+	font-size:14px;
+	color:#000;
+	font-weight:bold;
+	text-transform: uppercase;
+	}
+#hari
+{
+	padding-top:35px;
+	font-size: 60px;
+	color:#000;
+	font-weight: bold;
+	
+	}
+#namahari
+{
+	padding-top:25px;
+	font-size: 12px;
+	color:#000;
+	text-transform: uppercase;
+	}
+#tahun
+{
+	padding-top:7px;
+	width: 110px;
+	color:#000;
+	font-size: 15px;
+	font-weight:bold;
+	}
+#hijriah, #hari, #bulan, #namahari, #tahun
+{
+	margin: 0 auto 0 auto !important;
+	}
+	

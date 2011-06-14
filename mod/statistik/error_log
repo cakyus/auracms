@@ -1,0 +1,6 @@
+[09-Jun-2008 17:15:24] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'auracms'@'localhost' (using password: NO) in /home/auracms/public_html/mod/statistik/hits.php on line 4
+[09-Jun-2008 17:15:24] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/auracms/public_html/mod/statistik/hits.php on line 4
+[09-Jun-2008 17:15:24] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/auracms/public_html/mod/statistik/hits.php on line 5
+[19-Jul-2008 22:58:05] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'auracms'@'localhost' (using password: NO) in /home/auracms/public_html/mod/statistik/hits.php on line 4
+[19-Jul-2008 22:58:05] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/auracms/public_html/mod/statistik/hits.php on line 4
+[19-Jul-2008 22:58:05] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/auracms/public_html/mod/statistik/hits.php on line 5

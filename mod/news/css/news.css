@@ -1,0 +1,14 @@
+.mod_news_list1 {
+background: #efefef;
+}
+.mod_news_list2 {
+background: none;	
+}
+.mod_news_selected {
+background: #FFF4C9;	
+}
+.mod_news_list_header {
+color:#4284B0;
+font-size: 10px;
+font-weight: bold;
+}

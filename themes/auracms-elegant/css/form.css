@@ -1,0 +1,8 @@
+.inputfocus_alert {
+	background: #FAFAFA;	
+color: #000000;	border: 1px #D1D8EC solid;	
+font-size: 11px; 
+font-family: Verdana, Helvetica; 
+text-decoration: none;
+border: red 1px solid;
+}

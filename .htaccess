@@ -1,0 +1,22 @@
+RewriteEngine On
+RewriteBase /auracms2.3
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+
+RewriteRule ^.*$ - [S=84]
+RewriteRule ^(links|download|contact|themes|guestbook|gallery|statistik|quran|lyrics|glossary|whois|sms|youtube|iklanbaris|templates|faq).html$ ./index.php?pilih=$1&mod=yes [QSA,L]
+RewriteRule ^article-([0-9]{1,})-(.*).html$ ./index.php?pilih=news&mod=yes&aksi=lihat&id=$1&judul=$2 [QSA,L]
+RewriteRule ^category-([0-9]{1,})-(.*).html$ ./index.php?pilih=news&mod=yes&aksi=arsip&topik=$1&judul=$2 [QSA,L]
+RewriteRule ^pages-([0-9]{1,})-(.*).html$ ./index.php?pilih=hal&id=$1&judul=$2 [QSA,L]
+RewriteRule ^cetak-([0-9]{1,})-(.*).html$ ./cetak.php?id=$1&judul=$2 [QSA,L]
+RewriteRule ^recommend-([0-9]{1,})-(.*).html$ ./index.php?pilih=news&mod=yes&aksi=recommend&id=$1&judul=$2 [QSA,L]
+RewriteRule ^register.html$ ./index.php?pilih=user&aksi=register [QSA,L]
+RewriteRule ^forgotpassword.html$ ./index.php?pilih=user&aksi=forgotpass [QSA,L]
+RewriteRule ^tentang-auracms.html$ ./index.php?pilih=hal&id=4 [QSA,L]
+RewriteRule ^sejarah-auracms.html$ ./index.php?pilih=hal&id=2 [QSA,L]
+RewriteRule ^site-credit.html$ ./index.php?pilih=hal&id=3 [QSA,L]
+RewriteRule ^donasi.html$ ./index.php?pilih=hal&id=5 [QSA,L]
+RewriteRule ^poling-result.html$ ./index.php?pilih=polling&mod=yes&act=polling_result [QSA,L]
+RewriteRule ^download-([0-9]{1,})-(.*).html$ ./dl_jump.php?id=$1&judul=$2 [QSA,L]
+RewriteRule ^url-([0-9]{1,})-(.*).html$ ./links_jump.php?id=$1&judul=$2 [QSA,L]
+RewriteRule ^sitemap.html$ ./sitemap.php [QSA,L]

@@ -1,0 +1,2 @@
+
+Sitemap : http://auracms.org/sitemap.php?do=showsitemap&sm=sitemap.xml.gz

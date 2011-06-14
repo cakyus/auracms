@@ -1,0 +1,8 @@
+<?
+session_start();
+@header("Content-type: application/swf");
+$filename = 'Swiff.Uploader.swf.source';
+$handle = fopen($filename, "r");
+echo fread($handle, filesize($filename));
+fclose($handle);
+?>
