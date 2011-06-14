@@ -20,7 +20,7 @@ define('AURACMS_FUNC', true);
 
 $mysql_user = 'root';
 $mysql_password = '';
-$mysql_database = 'auracms_ver2.3';
+$mysql_database = 'auracms';
 $mysql_host = 'localhost';
 
 /*---------------------------------------------------------------------------------
@@ -30,7 +30,15 @@ $mysql_host = 'localhost';
 $email_master='admin@auracms.org, ridwan@auracms.org';
 $theme='auracms-elegant';
 $judul_situs='AuraCMS : Indonesia Content Management System';
-$url_situs= 'http://localhost/auracms2.3';
+
+// $url_situs
+// <protocol>://<hostName>[:<portNumber>]/path/to/cms
+$url_situs = 'http://'
+            .$_SERVER["SERVER_NAME"]
+            .':'.$_SERVER["SERVER_PORT"]
+            .dirname($_SERVER["REQUEST_URI"])
+            ;
+
 $slogan = 'Free and Easy To Use';
 $adminfile = 'admin'; //silahkan di ganti dan jangan lupa merename file admin.php  sesuai dg yang anda ganti
 //$editor ='1';  //Jika menggunakan WYSIWYG isi 1 jika tidak 0
@@ -167,8 +175,11 @@ if (file_exists('includes/fungsi.php')){
 
 if (substr(phpversion(),0,3) >= 5.1) {
 date_default_timezone_set('Asia/Jakarta');
-
-		$_basedir = $_SERVER["DOCUMENT_ROOT"] . '/auracms2.3/';
+        
+        // $_basedir
+        // basically, this is the cms real root path
+        $_basedir = dirname($_SERVER['SCRIPT_FILENAME']).'/';
+		
 		set_include_path(get_include_path() . 
 		  PATH_SEPARATOR . $_basedir . 'mod/phpids' . 
 		  PATH_SEPARATOR . $_basedir . 'mod/phpids/lib'
